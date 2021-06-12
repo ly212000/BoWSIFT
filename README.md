@@ -1,11 +1,10 @@
 # bag-of-words
-![alt text](docs/images/bog.png)
 Python Implementation of Bag of Words for Image Recognition using OpenCV and
 sklearn | [Video](https://www.youtube.com/watch?v=Ba_4wOpbJJM)
 
 Note: version compatible:
-python2.7
-scikit-learn 0.15.2
+python2.7,
+scikit-learn 0.15.2,
 opencv 3.4.2
 
 ## Training the classifier
